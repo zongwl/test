@@ -6,7 +6,7 @@ package com.raytest;
 public class myttt {
     //12312312111
     public static void main(String[] args){
-        System.out.println("123sdsdsdsdss");
+        System.out.println("123sdsdsds谁是生生世世dss");
     }
 
 }
